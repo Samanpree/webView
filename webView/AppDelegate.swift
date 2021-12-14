@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  webView
-//
-//  Created by Reena on 07/12/21.
-//
 
 import UIKit
 
